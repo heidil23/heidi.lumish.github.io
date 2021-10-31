@@ -1,0 +1,162 @@
+---
+title: "Curriculum Vitae"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 4
+---
+
+Here's back to the [index](index.html) page.
+
+#### EDUCATION / POST-GRADUATE TRAINING
+**New York Presbyterian Hospital**, New York, NY
+General Cardiology Fellow, July 2020-present
+
+**Columbia University Irving Medical Center**, New York, NY
+    Chief Resident in Internal Medicine, May 2019-May 2020
+
+**New York Presbyterian Hospital**, New York, NY
+    Resident in Internal Medicine, June 2016-May 2019
+
+**Columbia University Irving Medical Center**, New York, NY
+    Postdoctoral Residency Fellow, June 2016-May 2019
+
+**Columbia University College of Physicians & Surgeons**, New York, NY
+    Doctorate of Medicine, August 2012-May 2016
+
+**Tufts University**, Medford, MA
+    Bachelor of Science, May 2010, *Summa cum laude*
+    Double Major: Biology and Community Health
+
+#### AWARDS AND HONORS
+* Glasgow-Rubin Achievement Award for women graduating in the top 10 percent of their class, May 2016
+* Robert F. Loeb Award for excellence in clinical medicine, May 2016
+* Herbert J. Bartelstone Award for exceptional accomplishments in pharmacology, May 2016
+* Alpha Omega Alpha Honor Society, 2015
+* Gold Humanism Honor Society, 2015
+* Albert B. Knapp Scholarship, 2015
+* Alan and Ruth Borenstein Medical Scholarship, July 2014 and July 2015
+* NIH-Funded Summer Research Fellowship, June 2013
+
+#### RESEARCH EXPERIENCE
+**Clinical Investigator**, *Columbia University Irving Medical Center*, New York, NY, May 2017-present
+Supervisor: Muredach P. Reilly, MBBCh, MSCE
+
+* Assessing mediators of the relationship between visceral adiposity and abnormalities of cardiac structure and function
+* Examining sex differences in circulating cardiovascular risk biomarkers and their association with adipose tissue distribution in humans 
+* Prepared systematic review of the physiology and genetics underlying sex differences in adipose tissue distribution to inform future diagnostics and therapeutics in cardiometabolic disease
+
+**Clinical Investigator**, *Columbia University Irving Medical Center*, New York, NY, October 2017-present
+Supervisors: Melana Yuzefpolskaya, MD and Paolo C. Colombo, MD
+
+*	Assessing the impact of standardized protocols, pathogen type, and treatment strategy on the rate of and outcomes after LVAD driveline infections
+*	Investigating the impact of pre-LVAD infections on outcomes following LVAD implantation
+*	Investigated the impact of pre-LVAD left atrial or left ventricular thrombus on outcomes following LVAD implantation
+*	Assessed the role of gender bias in referral patterns for LVAD by surveying patients and providers
+
+**Student Investigator**, *Columbia University College of Physicians & Surgeons*, New York, NY, June 2013-May 2016
+Supervisor: Wendy K. Chung, MD, PhD
+
+*	Evaluated patient understanding and psychological outcomes after gene panel testing for hereditary breast cancer
+* Designed videos to educate patients about whole exome sequencing and the concept of secondary findings
+* Studied single gene determinants of an inherited metabolic disorder and an autism spectrum disorder
+
+**Clinical Research Coordinator**, *Massachusetts General Hospital*, Boston, MA, May 2010-June 2012
+Supervisor: Udo Hoffmann, MD
+
+* Assisted with cost data collection and analysis for an NIH-funded study comparing cardiac CTA with other triage modalities for patients presenting to the emergency room with chest pain 
+*	Screened and recruited eligible patients for an NIH-funded study using cardiac MRI to assess the effect of omega-3 fatty acids on left ventricular remodeling after acute myocardial infarction
+* Managed a quality improvement project tracking and reporting cardiac MRI scan durations
+
+#### TEACHING EXPERIENCE
+**Medical Tutor**, *Med School Tutors*, New York, NY, September 2015-June 2017
+
+*	Assisted medical students in preparing for USMLE Step 1 and Step 2 CK exams
+
+**Molecular Mechanisms Coordinator**, *Student Success Network at Columbia University*, New York, NY
+August 2013-December 2013
+
+*	Organized exam review sessions attended by ~100 pre-clinical medical students prior to each biochemistry exam
+*	Supervised and trained senior medical students who taught biochemistry review sessions
+*	Developed and delivered topic presentations and handouts for biochemistry exam review sessions
+
+**General Chemistry Instructor**, *The Princeton Review*, Newton, MA, January 2011-June 2012
+
+*	Instructed students in MCAT and SAT Subject Test preparation in group and private sessions
+
+#### LEADERSHIP ACTIVITIES
+**Resident Life Forum at Columbia**, *Member*, September 2017-May 2020
+
+*	Co-founded psychiatrist-led Meaning in Medicine groups to help residents build coping skills for a career in medicine and find meaning in their work
+*	Organized narrative medicine writing sessions for internal medicine residents to reflect on the residency experience
+
+**Women in Medicine at Columbia**, *Executive Board Member*, March 2017-June 2018
+
+*	Served as an executive board member for a resident-led group that promotes the advancement of female residents, fellows, and attendings in the Department of Medicine
+*	Hosted events promoting career development, mentorship, and recruitment of female physicians for current and prospective residents
+
+#### PEER-REVIEWED PUBLICATIONS
+
+Foulkes AS, Selvaggi C, Shinnick D, **Lumish H**, Kim E, Cao T, Thaweethai T, Qian J, Lu F, Yan J, Cheng D, He W, Clerkin KJ, Madhavan MV, Meigs JB, Triant VA, Lubitz SA, Gupta A, Bassett IV, Reilly MP. Understanding the link between obesity and severe COVID-19 outcomes: Causal mediation by systemic inflammatory response. J Clin Endocrinol Metab. 2021 Sep; Online ahead of print. PMID: 34473294
+
+Yuzefpolskaya M, **Lumish HS**, Javaid A, Cagliostro B, Mondellini GM, Bohn B, Sweat A, Onat D, Braghieri L, Takeda K, Naka Y, Sayer GT, Uriel N, Aaron JG, Montassier E, Demmer RT, Colombo PC. Association of preoperative infections, nasal Staphylococcus aureus colonization and gut microbiota with left ventricular assist device outcomes. Eur J Heart Fail. 2021 Aug; 23(8): 1404-1415. PMID: 33964186
+*Co-first authors
+
+Kennel PJ, **Lumish H**, Kaku Y Fried J, Kirtane AJ, Karmpaliotis D, Takayama H, Naka Y, Sayer G, Uriel N, Takeda K, Masoumi M. A case series analysis on the clinical experience of Impella 5.5® at a large tertiary care center. ESC Heart Fail. 2021 Aug 17; Online ahead of print. PMID: 34402210.
+*Co-first authors
+
+Bravo CA, Fried JA, Willey JZ, Javaid A, Mondellini GM, Braghieri L, **Lumish H**, Topkara VK, Kaku Y, Witer L, Takayama H, Takeda K, Sayer G, Uriel N, Demmer RT, Naka Y, Yuzefpolskaya M, Colombo PC. Presence of intracardiac thrombus at the time of left ventricular assist device implantation is associated with increased risk of stroke and death. J Card Fail. 2021 Jun; Online ahead of print. PMID: 34161806.
+
+Foulkes AS, Selvaggi C, Cao T, O’Reilly M, Cynn E, Ma P, **Lumish HS**, Xue C, Reilly MP. Nonconserved long intergenic noncoding RNAs associate with complex cardiometabolic traits. Arterioscler Thromb Vasc Biol. 2021 Jan;41(1): 501-511. PMID: 33176448.
+
+Manson DK, Shen S, Lavelle MP, **Lumish HS**, Chong DH, De Miguel MH, Christianer K, Burnett EJ, Nickerson KG, Chandra S. Reorganizing a medicine residency program in response to the COVID-19 pandemic in New York. Acad Med. 2020 Nov;95(11):1670-1673. PMID 32544102.
+
+**Lumish HS**, O’Reilly M, Reilly MP. Sex differences in genomic drivers of adipose distribution and related cardiometabolic disorders: Opportunities for precision medicine. Arterioscler Thromb Vasc Biol. 2020 Jan;40(1):45-60. PMID: 31747800.
+
+Goehler A, Mayrhofer T, Pursnani A, Ferencik M, **Lumish HS**, Barth C, Karady J, Chow B, Truong QA, Udelson JE, Fleg JL, Nagurney JT, Gazelle GS, Hoffmann U. Long-term health outcomes and cost-effectiveness of coronary CT angiography in patients with suspicion for acute coronary syndrome. J Cardiovasc Comput Tomogr. 2019. PMID: 31303580.
+
+**Lumish HS**, Steinfeld H, Koval C, Russo D, Levinson E, Wynn J, Duong J, Chunk WK. Impact of gene panel testing for hereditary breast and ovarian cancer on patients. J Genet Couns. 2017. PMID: 28357778.
+
+Heydari B, Abdullah S, Pottala JV, Shah R, Abbasi S, Mandry D, Francis SA, **Lumish H**, Ghoshhajra BB, Hoffmann U, Appelbaum E, Feng JH, Blankstein R, Steigner M, McConnell JP, Harris W, Antman EM, Jerosch-Herold M, Kwong RY. Effect of omega-3 ethyl esters on left ventricular remodeling after acute myocardial infarction: The OMEGA-REMODEL randomized clinical trial. Circulation. 2016; 134(5): 378-91. PMID: 27482002.
+
+**Lumish HS**, Wynn J, Devinsky O, Chung WK.  Brief Report: SETD2 mutation in a child with autism, intellectual disabilities, and epilepsy. J Autism Dev Disorder. 2015. PMID: 26084711.
+
+Goehler A, McMahon PM, **Lumish HS**, Wu C, Munshi V, Gilmore M, Chung JH, Ghoshhajra BB, Mark D, Troung Q, Gazelle GS, Hoffmann U. Cost-effectiveness of follow-up of pulmonary nodules incidentally detected on cardiac computed tomographic angiography in patients with suspected coronary artery disease. Circulation. 2014;130(8):668-675. PMID: 25015342.
+
+Sidhu MS, **Lumish H**, Uthamalingam S, Engel LC, Abbara S, Brady TJ, Hoffmann U, Ghoshhajra BB. Adherence to the 2010 American College of Cardiology Foundation appropriate use criteria for cardiac computed tomography: Quality analysis at a tertiary referral center. J Patient Saf. 2014. PMID: 25136850.
+*Co-first authors
+
+**Lumish HS**, Yang Y, Xia F, Wilson A, Chung WK. The expanding MEGDEL phenotype: Optic nerve atrophy, microcephaly, and myoclonic epilepsy in a child with SERAC1 mutations. JIMD Reports. 2014;16:75-79. PMID: 24997715.
+
+Liu T, Pursnani A, Sharma UC, Vorasettakarnkij Y, Verdini D, Deeprasertkul P, Lee AM, **Lumish H**, Sidhu MS, Medina H, Danik S, Abbara S, Holmvang G, Hoffmann U, Ghoshhajra BB. Effect of the 2010 task force criteria on reclassification of cardiovascular magnetic resonance criteria for arrhythmogenic right ventricular cardiomyopathy. J Cardiovasc Magn Reson. 2014;16:47. PMID: 24996808.
+
+**Lumish H**, Sidhu MS, Kallianos K, Brady TJ, Hoffmann U, Ghoshhajra BB. Reporting scan times reduces cardiac MR examination duration. J Am Coll Radiol. 2014;11(4):425-428. PMID: 23999473.
+
+#### ORAL PRESENTATIONS
+
+**Lumish H**, Chaudhary E, Cagliostro B, Javaid A, Mondellini GM, Braghieri L, Sweat A, Murphy J, Pinsino A, Takeda K, Naka Y, Sayer GT, Uriel N, Aaron JG, Colombo PC, Yuzefpolskaya M. Pseudomonas aeruginosa infection predicts need for surgical incision and drainage in LVAD patients with driveline infection. International Society for Heart and Lung Transplantation Annual Meeting and Scientific Sessions. April 2021.
+
+#### POSTER PRESENTATIONS
+
+Kennel PJ, **Lumish H**, Kaku Y, Fried J, Kirtane A, Karmpaliotis D, Takayama H, Naka Y, Sayer G, Uriel N, Takeda K, Masoumi A. Early clinical experience with Impella 5.5 at a large tertiary care center. International Society for Heart and Lung Transplantation Annual Meeting and Scientific Sessions. April 2021.
+*Presenting author
+
+**Lumish H**, Hupf JC, Latif F, Haythe JH, Farr MA, Zuver AM, Antler KL, Garan AR, Takayama H, Takeda K, Naka Y, Colombo PC, Yuzefpolskaya M. Gender bias in LVAD referral patterns – A survey of patients and providers. International Society for Heart and Lung Transplantation Annual Meeting and Scientific Sessions. Orlando, FL, April 2019.
+*Presenting author
+
+**Lumish HS**, Madhavan MV, Redfors B, Zhang Y, Serruys PW, Smits PC, von Birgelen C, Kosmidou I, Leon MB, Stone GW. Five-year outcomes following percutaneous coronary intervention by age and sex: An individual patient data pooled analysis from 21 randomized trials. American College of Cardiology 68th Annual Scientific Session. New Orleans, LA, March 2019.
+
+**Lumish HS**, Clerkin KJ, Marboe C, Han J, Latif F, Restaino SW, Farr MA, Lin EF, Takayama H, Takeda K, Naka Y, Colombo PC, Yuzefpolskaya M. Giant cell myocarditis patients undergoing heart transplantation have high rates of rejection, infection and cardiac allograft vasculopathy: Case series. International Society for Heart and Lung Transplantation Annual Meeting and Scientific Sessions. Nice, France, 2018.
+*Presenting author
+
+Sidhu MS, **Lumish H**, Engel LC, Uthamalingam S, Abbara S, Brady TJ, Hoffmann U, Ghoshhajra B. Adherence to the 2010 American College of Cardiology Foundation appropriate use criteria for cardiac computed tomography: Quality analysis at a tertiary referral center. American Heart Association Quality of Care and Outcomes Research Scientific Sessions. Atlanta, GA, May 2012.
+*Presenting author
+
+Sidhu MS, **Lumish H**, Uthamalingam S, Engel LC, Kalra M, Francis S, Holmvang G, Abbara S, Brady T, Hoffmann U, Ghoshhajra B. Impact of reporting cardiac magnetic resonance examination duration on the total scan time: A tertiary academic health care hospital experience. American Heart Association Quality of Care and Outcomes Research Scientific Sessions. Atlanta, GA, May 2012. 
+*Presenting author
+
+**Lumish H**, Sidhu M, Engel LC, Uthamalingam S, Brady TJ, Hoffmann U, Ghoshhajra B. Adherence to the 2010 American College of Cardiology Foundation appropriate use criteria for cardiac computed tomography is independent of provider type in an academic tertiary referral center. American College of Cardiology 61st Annual Scientific Session. Chicago, IL, March 2012.
+
+#### HOBBIES AND INTERESTS
+Cooking, baking, running half marathons, hiking, tennis, biking, knitting

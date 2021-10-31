@@ -1,0 +1,14 @@
+---
+title: "Heidi Lumish's website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+
+I can link to useful things like [google](https://www.google.com/) and [p8105](https://www.p8105.com/).
+
+I can make an extra page on my site and link to that. Here's my [about](about.html) page
+
+
