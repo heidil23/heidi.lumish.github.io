@@ -1,0 +1,73 @@
+---
+title: "Dashboard"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+    source_code: embed
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(tidyverse)
+library(p8105.datasets)
+library(plotly)
+```
+
+```{r}
+data("instacart")
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A
+
+```{r}
+instacart %>% 
+  group_by(aisle) %>% 
+  summarize(
+    aisle_count = n()
+  ) %>% 
+  filter(aisle_count >10000) %>% 
+  plot_ly(x = ~aisle_count, y = ~reorder(aisle, aisle_count), type = "bar", orientation = "h", colors = "viridis") %>% 
+  layout(title = 'Number of products ordered per aisle', xaxis = list(title = 'Number of products'), yaxis = list(title = 'Aisle name'))
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r}
+instacart %>% 
+  filter(
+    product_name == "Coffee Ice Cream") %>% 
+    mutate(
+      order_dow = as.factor(order_dow),
+      order_dow = fct_recode(order_dow, 
+                 "Sunday" = "0",
+                 "Monday"= "1",
+                 "Tuesday" = "2",
+                 "Wednesday" = "3",
+                 "Thursday" = "4",
+                 "Friday" = "5",
+                 "Saturday" = "6")
+  ) %>% 
+   plot_ly(y = ~ order_hour_of_day, color = ~order_dow, type = "box", colors = "viridis") %>% 
+    layout(title = 'Coffee ice cream ordering time by day of the week', xaxis = list(title = 'Day of the week'), yaxis = list(title = 'Hour of the day'))
+```
+
+### Chart C
+
+```{r}
+instacart %>%
+  head(., 3000) %>% 
+  filter(days_since_prior_order < 30) %>% 
+  group_by(order_id) %>% 
+  mutate(
+    order_count = n()) %>% 
+  plot_ly(x = ~days_since_prior_order, y = ~order_count, type = "scatter", mode = "markers") %>% 
+    layout(title = 'Relationship between number of items ordered and days since prior order ', xaxis = list(title = 'Days since prior order'), yaxis = list(title = 'Number of items per order'))
+```
+
