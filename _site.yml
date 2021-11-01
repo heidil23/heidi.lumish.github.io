@@ -7,6 +7,8 @@ navbar:
       href: cv.html
     - text: "Dashboard"
       href: dashboard.html
+    - text: "ACC"
+      href: http://www.acc.org/
     - icon: fa-envelope fa-lg
       href: mailto:<hl2738@cumc.columbia.edu>
     - icon: fa-github fa-lg

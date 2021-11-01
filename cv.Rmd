@@ -1,13 +1,11 @@
 ---
-title: "Curriculum Vitae"
+title: "Heidi S. Lumish"
 output: 
   html_document:
     toc: true
     toc_float: true
     toc_depth: 4
 ---
-
-Here's back to the [index](index.html) page.
 
 #### EDUCATION / POST-GRADUATE TRAINING
 **New York Presbyterian Hospital**, New York, NY

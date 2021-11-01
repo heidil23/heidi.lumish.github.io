@@ -1,14 +1,15 @@
 ---
-title: "Heidi Lumish's website"
+title: "Dr. Heidi S. Lumish"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
 
+<div style="float: left">
+<img src="photos/headshot.png" style="width:15%">
+</div>
 
-I can link to useful things like [google](https://www.google.com/) and [p8105](https://www.p8105.com/).
+Dr. Lumish completed her residency training in Internal Medicine at Columbia University. She served as Chief Resident for the Internal Medicine training program during the onset of the COVID-19 pandemic. She is currently a second-year cardiology fellow at Columbia University and is enrolled in the Masters in Patient Oriented Research Program through the Mailman School of Public Health. Her research focuses on the use of human genetics and epidemiology to better understand the intersection between adipose distribution, biological sex, and the risk for and progression of complex cardiovascular diseases. Her work focuses additionally on the use of proteomics in risk stratifying patients with hypertrophic obstructive cardiomyopathy. She plans to pursue a career as an academic cardiologist with a focus in advanced heart failure.
 
-I can make an extra page on my site and link to that. Here's my [about](about.html) page
-
-
+For a complete list of published work in Dr. Lumish's bibliography, please visit [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/heidi.lumish.1/bibliography/public/).
