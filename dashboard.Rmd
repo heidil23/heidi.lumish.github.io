@@ -1,5 +1,5 @@
 ---
-title: "Dashboard"
+title: "Instacart Dashboard"
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns
@@ -18,26 +18,10 @@ library(plotly)
 data("instacart")
 ```
 
-Column {data-width=650}
+Column {data-width=500}
 -----------------------------------------------------------------------
 
 ### Chart A
-
-```{r}
-instacart %>% 
-  group_by(aisle) %>% 
-  summarize(
-    aisle_count = n()
-  ) %>% 
-  filter(aisle_count >10000) %>% 
-  plot_ly(x = ~aisle_count, y = ~reorder(aisle, aisle_count), type = "bar", orientation = "h", colors = "viridis") %>% 
-  layout(title = 'Number of products ordered per aisle', xaxis = list(title = 'Number of products'), yaxis = list(title = 'Aisle name'))
-```
-
-Column {data-width=350}
------------------------------------------------------------------------
-
-### Chart B
 
 ```{r}
 instacart %>% 
@@ -58,7 +42,7 @@ instacart %>%
     layout(title = 'Coffee ice cream ordering time by day of the week', xaxis = list(title = 'Day of the week'), yaxis = list(title = 'Hour of the day'))
 ```
 
-### Chart C
+### Chart B
 
 ```{r}
 instacart %>%
@@ -68,6 +52,21 @@ instacart %>%
   mutate(
     order_count = n()) %>% 
   plot_ly(x = ~days_since_prior_order, y = ~order_count, type = "scatter", mode = "markers") %>% 
-    layout(title = 'Relationship between number of items ordered and days since prior order ', xaxis = list(title = 'Days since prior order'), yaxis = list(title = 'Number of items per order'))
+    layout(title = 'Number of items ordered vs. days since prior order ', xaxis = list(title = 'Days since prior order'), yaxis = list(title = 'Number of items per order'))
 ```
 
+Column {data-width=500}
+-----------------------------------------------------------------------
+
+### Chart C
+
+```{r}
+instacart %>% 
+  group_by(aisle) %>% 
+  summarize(
+    aisle_count = n()
+  ) %>% 
+  filter(aisle_count >10000) %>% 
+  plot_ly(x = ~aisle_count, y = ~reorder(aisle, aisle_count), type = "bar", orientation = "h", colors = "viridis") %>% 
+  layout(title = 'Number of products ordered per aisle', xaxis = list(title = 'Number of products'), yaxis = list(title = 'Aisle name'))
+```
