@@ -70,3 +70,5 @@ instacart %>%
   plot_ly(x = ~aisle_count, y = ~reorder(aisle, aisle_count), type = "bar", orientation = "h", colors = "viridis") %>% 
   layout(title = 'Number of products ordered per aisle', xaxis = list(title = 'Number of products'), yaxis = list(title = 'Aisle name'))
 ```
+
+Return to [home](index.html) page.
